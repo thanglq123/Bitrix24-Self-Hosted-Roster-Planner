@@ -1,0 +1,43 @@
+<?
+$MESS["BITRIX_PLANNER_ANVARQ"] = "Январь";
+$MESS["BITRIX_PLANNER_FEVRALQ"] = "Февраль";
+$MESS["BITRIX_PLANNER_MART"] = "Март";
+$MESS["BITRIX_PLANNER_APRELQ"] = "Апрель";
+$MESS["BITRIX_PLANNER_MAY"] = "Май";
+$MESS["BITRIX_PLANNER_IUNQ"] = "Июнь";
+$MESS["BITRIX_PLANNER_IULQ"] = "Июль";
+$MESS["BITRIX_PLANNER_AVGUST"] = "Август";
+$MESS["BITRIX_PLANNER_SENTABRQ"] = "Сентябрь";
+$MESS["BITRIX_PLANNER_OKTABRQ"] = "Октябрь";
+$MESS["BITRIX_PLANNER_NOABRQ"] = "Ноябрь";
+$MESS["BITRIX_PLANNER_DEKABRQ"] = "Декабрь";
+$MESS["BITRIX_PLANNER_DOBAVLENIE_ZAPISI"] = "Добавление записи";
+$MESS["BITRIX_PLANNER_IZMENENIE_ZAPISI"] = "Изменение записи";
+$MESS["BITRIX_PLANNER_PRODOLJITELQNOSTQ"] = "продолжительность: ";
+$MESS["BITRIX_PLANNER_DN"] = "дн";
+$MESS["BITRIX_PLANNER_UDALITQ_ZAPISQ"] = "Удалить запись?";
+$MESS["BITRIX_PLANNER_PODTVERDITQ_ZAPISQ"] = "Подтвердить запись?";
+$MESS["BITRIX_PLANNER_VERNUTQ_STATUS_NEPOD"] = "Вернуть статус неподтвержденного?";
+$MESS["BITRIX_PLANNER_DNEY"] = "дней: ";
+$MESS["BITRIX_PLANNER_ZAPLANIROVANNYE_OTSU"] = "Запланированные отсутствия";
+$MESS["BITRIX_PLANNER_SNATQ_PODTVERJDENIE"] = "снять подтверждение";
+$MESS["BITRIX_PLANNER_PODTVERDITQ"] = "подтвердить";
+$MESS["BITRIX_PLANNER_UDALITQ"] = "удалить";
+$MESS["BITRIX_PLANNER_DATA_NACALA"] = "Дата начала";
+$MESS["BITRIX_PLANNER_DATA_KONCA"] = "Дата конца";
+$MESS["BITRIX_PLANNER_TIP_ZAPISI"] = "Тип записи";
+$MESS["BITRIX_PLANNER_SOHRANITQ"] = "Сохранить";
+$MESS["BITRIX_PLANNER_OTMENA"] = "Отмена";
+$MESS["BITRIX_PLANNER_OTMECENO_NE_SOHRANE"] = "отмечено, не сохранено";
+$MESS["BITRIX_PLANNER_SOHRANENO_NO_NE_POD"] = "сохранено, но не подтверждено, можно удалить";
+$MESS["BITRIX_PLANNER_PRIMECANIE"] = "Примечание: ";
+$MESS["BITRIX_PLANNER_PODTVERJDEN"] = "подтверждён";
+$MESS["BITRIX_PLANNER_NE_PODTVERJDEN"] = "не подтверждён";
+$MESS["BITRIX_PLANNER_SOTRUDNIK"] = "Сотрудник";
+$MESS["BITRIX_PLANNER_PODRAZDELENIE"] = "Подразделение: 
+		";
+$MESS["BITRIX_PLANNER_VKLUCAA_PODOTDELY"] = "включая подотделы";
+$MESS["BITRIX_PLANNER_EKSPORT_V"] = "экспорт в excel";
+$MESS["BITRIX_PLANNER_ITOGO_ZA"] = "Итого за ";
+$MESS["BITRIX_PLANNER_IZMENITQ"] = "изменить";
+?>

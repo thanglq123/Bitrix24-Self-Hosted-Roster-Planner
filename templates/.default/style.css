@@ -1,0 +1,161 @@
+	#holidays table {
+		border-collapse:collapse;
+	}
+	
+	#holidays td,th {
+		border:1px solid #CCd;
+		padding:4px;
+	}
+
+	.plus-btn {
+		float:right;
+		font-size:20px;
+		padding-right:8px;
+		padding-left:8px;
+		color:#2cb111;
+		cursor:pointer;
+	}
+
+	.plus-btn:hover {
+		background-color:#EAEAF7;
+	}
+
+
+
+	.link-approve {
+		color:#090;
+	}
+
+	.link-approve:hover {
+		color:#0c0;
+	}
+
+	.link-disapprove {
+	}
+
+	.link-disapprove:hover {
+	}
+
+	.link-remove {
+		color:#900;
+	}
+
+	.link-remove:hover {
+		color:#c00;
+	}
+
+	table#main-table td {
+		width:20px;
+		height:20px;
+		border-color:rgb(165, 197, 223);
+		-webkit-touch-callout: none;
+		-webkit-user-select: none;
+		-khtml-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+	}
+
+	.day-title {
+		font-weight:bold;
+		text-align:center;
+	}
+
+	.day-title-holiday {
+		font-weight:bold;
+		text-align:center;
+		background-color:rgb(245, 178, 178);
+	}
+
+	.day-title-holiday-past {
+		font-weight:bold;
+		text-align:center;
+		background-color:rgb(196, 179, 228);
+	}
+
+	.day-title-past {
+		font-weight:bold;
+		text-align:center;
+		background-color:rgb(231, 231, 243);
+	}
+
+	.day-past {
+		background-color:rgb(231, 231, 243);
+	}
+	.day-saved {
+		background-color:#dde0a4;
+	}
+	.active-day {
+		height:100%;
+	}
+	.day-partial {
+		height:40%;
+	}
+
+	.np-td-text {
+		font-weight: bolder;
+		font-size: 18px;
+	}
+/* 
+.mark-vacation {
+		background-color:#AA0078;
+	}
+	.mark-assignment {
+		background-color:#005578;
+	}
+	.mark-leavematerinity {
+		background-color:#B3B3D7;
+	}
+	.mark-leavesick {
+		background-color:#D1CAB0;
+	}
+	.mark-leaveunpayed{
+		background-color:#ff9999;
+	}
+	.mark-unknown{
+		background-color:#ff0000;
+	}
+	.mark-other{
+		background-color:#CCCCFF;
+	}
+	.mark-personal{
+		background-color:#7D9C9F;
+	}
+
+/* added colors */
+/* 
+	.mark-rostereddayoff{
+		background-color:#BDD8DA;
+	}
+
+	.mark-publicholiday{
+		background-color:#DFEFF0;
+	}
+	.mark-training{
+		background-color:#ECECEC;
+	}
+	.mark-bereavementleave{
+		background-color:#B1B1B1;
+	}
+	.mark-lieuday{
+		background-color:#330033;
+	}
+	.mark-personalcalendars{
+		background-color:#660033;
+	}
+
+
+/* ************ */
+
+
+	.current-user {
+		/*background-color:rgb(218, 252, 207);*/
+		background-color:#adf0f2;
+	}
+
+	.current-user:hover {
+	}
+
+	.any-user:hover {
+		background-color:rgb(240, 248, 248);
+	}
